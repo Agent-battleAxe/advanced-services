@@ -10,7 +10,7 @@ const Contact = () => {
                 <div className='flex tablet-lg:px-[20px] px-[50px] tablet-sm:flex-col tablet-lg:gap-5
                 tablet-sm:items-center mobile:items-center
                  mobile:flex-col mobile:pt-[20px] tablet-sm:pt-[50px] pt-[150px] justify-around'>
-                    <img src={mapImage.map} className='h-[350px] w-[500px] tablet-lg:h-[200px] tablet-lg:w-[400px]' alt="" />
+                    <img src={mapImage.map_1} className='h-[350px] w-[500px] tablet-lg:h-[200px] tablet-lg:w-[400px]' alt="" />
                     <div className='text-start'>
                         <h2  className='font-bold text-[#38b6ff] mobile:text-[30px] mobile:pb-4 pt-4 text-[40px]'>Contactez nous</h2>
                         <form action="" className='tablet-lg:w-[80%]'>

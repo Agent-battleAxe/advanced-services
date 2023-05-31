@@ -15,7 +15,7 @@ import our_team from '../assets/our_team_2.jpg';
 import tech_sur from '../assets/tech_sur.jpg';
 import tech_sur_2 from '../assets/tech_sur2.jpg';
 
-import map from '../assets/map.png';
+import map_1 from '../assets/map-1.png';
 
 
 
@@ -67,5 +67,5 @@ export const ourTeamImg = {
 }
 
 export const mapImage = {
-    map
+    map_1
 }
