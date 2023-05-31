@@ -4,9 +4,9 @@ import {imgBackground, mapImage} from '../utils/constant'
 
 const Contact = () => {
   return (
-    <div id='Contact'>
-        <div className="bg-[url('./assets/clean-1.jpg')] bg-cover bg-center h-screen w-full">
-            <div className='bg-[#161522]/90 z-2  h-[inherit] w-full'>
+    <div id='Contact' >
+        <div className="bg-[url('./assets/clean-1.jpg')] bg-cover bg-center  w-[100%]">
+            <div className='bg-[#161522]/90 z-2 pb-5 w-full'>
                 <div className='flex tablet-lg:px-[20px] px-[50px] tablet-sm:flex-col tablet-lg:gap-5
                 tablet-sm:items-center mobile:items-center
                  mobile:flex-col mobile:pt-[20px] tablet-sm:pt-[50px] pt-[150px] justify-around'>
