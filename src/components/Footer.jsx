@@ -10,7 +10,7 @@ import { FontAwesomeIcon, } from '@fortawesome/react-fontawesome'
 const Footer = () => {
   return (
     <div>
-      <div className='w-full bg-black text-center mobile:pt-10 mobile:px-2 px-8 pt-3'>
+      <div className='w-[100%] bg-black text-center mobile:pt-10 mobile:px-2 px-8 pt-3'>
         <div className='flex tablet-sm:flex-col mobile:flex-col mobile:items-center tablet-sm:items-center justify-between '>
           <div className=' bg-[#161522] flex items-center px-4 '>
             <img src={logos.white_logo} className='h-[100px] mobile:w-full w-[100px]' alt="" />

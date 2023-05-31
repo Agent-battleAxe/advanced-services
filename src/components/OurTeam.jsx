@@ -9,7 +9,7 @@ import "swiper/css"
 const OurTeam = () => {
   return (
     <div>
-        <div className='bg-[#161522] pt-[100px]  w-full text-center pb-20'>
+        <div className='bg-[#161522] pt-[100px]  w-[100%] text-center pb-20'>
             <h1 className="font-bold text-white mobile:text-[40px] text-[60px]">Notre Equipe</h1>
             <div className='font-semibold mobile:px-[20px] tablet-sm:px-[100px] text-lg text-white px-[200px]'>
                 <p>Le personnel d'Advanced Services est constitué d'une équipe
