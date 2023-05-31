@@ -7,8 +7,8 @@ import { HashLink} from 'react-router-hash-link';
 
 const Navbar = () => {
   return (
-    <div className='backdrop:blur-[5px]'>
-        <div className='z-[100] w-[100%] fixed mobile:h-[90px] h-[120px] px-10 flex items-center justify-between bg-black/30'>
+    <div>
+        <div className='z-[20] w-screen fixed mobile:h-[90px] h-[120px] px-10 flex items-center justify-between bg-black/30'>
             <div className=''>
                 <img src={logos.white_logo_slogan} className='h-[180px] w-[180px] mobile:h-[140px] mobile:w-[140px]' alt="" />
             </div>
